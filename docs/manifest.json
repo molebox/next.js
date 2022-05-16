@@ -272,7 +272,16 @@
             },
             {
               "title": "Middleware (Beta)",
-              "path": "/docs/advanced-features/middleware.md"
+              "routes": [
+                {
+                  "title": "Overview",
+                  "path": "/docs/advanced-features/middleware/middleware.md"
+                },
+                {
+                  "title": "API deprecation guide",
+                  "path": "/docs/advanced-features/middleware/middleware-api-deprecation.md"
+                }
+              ]
             },
             {
               "title": "Debugging",
